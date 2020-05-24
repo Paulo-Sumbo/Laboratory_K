@@ -5,4 +5,4 @@
 # Laboratory №2
 ### Task "Weather"
 ![alt text](Screen/lab2_1.jpg "Weather")
-![alt text](Screen/lab2_1.jpg "Weather")
+![alt text](Screen/lab2_2.jpg "Weather")
